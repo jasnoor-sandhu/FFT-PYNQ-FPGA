@@ -1,3 +1,8 @@
+Creating a 1024 Point **FFT Implementation**.
+Software Used: Xilinx Vivado 19.2
+Hardware Used: PYNQ-Z1 FPGA Board
+
+
 # Importing Overlay
 
 
